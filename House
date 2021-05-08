@@ -1,0 +1,110 @@
+<h1> This is a simple house design that was created and then implimented directly into HTML code as a SVG!
+
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="House.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="331.42857"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#800000;stroke-width:0.264583"
+       id="rect10"
+       width="122.46429"
+       height="136.07143"
+       x="52.160713"
+       y="150.43452" />
+    <path
+       sodipodi:type="star"
+       style="fill:#280b0b;stroke-width:0.264583"
+       id="path12"
+       sodipodi:sides="3"
+       sodipodi:cx="120.80215"
+       sodipodi:cy="107.13931"
+       sodipodi:r1="81.15493"
+       sodipodi:r2="40.577465"
+       sodipodi:arg1="0.48447793"
+       sodipodi:arg2="1.5316755"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 192.61762,144.93693 -70.22845,2.7488 -70.22846,2.7488 32.733699,-62.194028 32.733701,-62.194026 37.49476,59.445229 z"
+       inkscape:transform-center-x="-1.921839"
+       inkscape:transform-center-y="-12.875702"
+       transform="matrix(1.2109713,0,0,0.68129681,-36.70679,55.030627)" />
+    <rect
+       style="fill:#280b0b;stroke-width:0.264583"
+       id="rect14"
+       width="24.946428"
+       height="27.970238"
+       x="61.988094"
+       y="182.18451" />
+    <rect
+       style="fill:#aa4400;stroke-width:0.264583"
+       id="rect16"
+       width="24.190477"
+       height="41.577381"
+       x="102.05357"
+       y="244.92857" />
+    <ellipse
+       style="fill:#aa0000;stroke-width:0.264583"
+       id="path18"
+       cx="105.83333"
+       cy="265.33926"
+       rx="0.75595242"
+       ry="1.5119048" />
+    <rect
+       style="fill:#a02c2c;stroke-width:0.264583"
+       id="rect14-3"
+       width="24.946428"
+       height="27.970238"
+       x="133.4256"
+       y="179.53868" />
+  </g>
+</svg>
